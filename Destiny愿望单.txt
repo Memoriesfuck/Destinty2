@@ -1,3 +1,6 @@
+//notes:星狐座
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+
 //notes:雅罗维特MG4
 dimwishlist:item=3959549446&perks=3418782618,124408337
 dimwishlist:item=3959549446&perks=880644845,124408337
