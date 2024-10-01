@@ -1,3 +1,16 @@
+//notes:伊尔·约特的尖牙
+dimwishlist:item=1432682459&perks=3619207468,555281244
+dimwishlist:item=1432682459&perks=3418782618,31345821
+dimwishlist:item=1432682459&perks=247725512,831391274
+
+
+
+
+
+
+
+
+
 //notes:启航望远镜
 dimwishlist:item=1184309824&perks=247725512,2173046394
 dimwishlist:item=1184309824&perks=2284787283,1546637391
