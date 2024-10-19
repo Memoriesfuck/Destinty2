@@ -1,3 +1,13 @@
+//notes:
+
+//notes:连奏-11
+dimwishlist:item=3753063346&perks=3017780555,4293542123
+dimwishlist:item=3753063346&perks=3300816228,1546637391
+
+
+
+
+
 //notes:奥格玛PR6
 dimwishlist:item=2342054803&perks=3523296417,3592538738
 dimwishlist:item=2342054803&perks=3523296417,11612903
@@ -17,9 +27,6 @@ dimwishlist:item=1621657423&perks=2450788523,3365897133
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3751912585
 dimwishlist:item=2599338625&perks=3987942396,3194351027
-
-
-
 
 //notes:蜕皮
 dimwishlist:item=2823644677&perks=1955165503,124408337
@@ -49,15 +56,6 @@ dimwishlist:item=414045521&perks=3523296417,3425386926
 //notes:主权
 dimwishlist:item=3818198556&perks=3038247973,1134488199
 dimwishlist:item=3818198556&perks=3523296417,1134488199
-
-
-
-
-
-
-
-
-
 
 //notes:伊尔·约特的尖牙
 dimwishlist:item=1432682459&perks=3619207468,555281244
