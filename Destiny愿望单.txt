@@ -1,5 +1,14 @@
 //notes:
 
+//notes:非常演奏
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+dimwishlist:item=1097616550&perks=3643424744,3425386926
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+
+//notes:尼奥普托列墨斯II
+dimwishlist:item=2848549302&perks=2846385770,1546637391
+dimwishlist:item=2848549302&perks=2846385770,2946784966
+dimwishlist:item=2848549302&perks=2846385770,2579169598
 
 //notes:新太平洋碑文
 dimwishlist:item=1125217994&perks=3523296417,11612903
