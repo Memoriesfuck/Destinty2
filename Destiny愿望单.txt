@@ -1,2 +1,7 @@
 //notes:实弹射击
 dimwishlist:item=3612142623&perks=1955165503,124408337
+
+//notes:无名之秋（PVE）
+dimwishlist:item=1051949956&perks=684456054,2173046394
+//notes:无名之秋（PVP）
+dimwishlist:item=1051949956&perks=2387244414,4082225868
