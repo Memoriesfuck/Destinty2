@@ -23,3 +23,6 @@ dimwishlist:item=817909300&perks=3523296417,2173046394
 
 //notes:狂野风格（专家）（垃圾）
 dimwishlist:item=959037361&perks=3032599245,1523832109,1546637391
+
+//notes:多米诺（垃圾）
+dimwishlist:item=2800870005&perks=3700496672,4293542123
