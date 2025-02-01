@@ -20,3 +20,6 @@ dimwishlist:item=4233375372&perks=3523296417,831391274
 
 //notes:暗流涌动（专家）
 dimwishlist:item=817909300&perks=3523296417,2173046394
+
+//notes:狂野风格（专家）（垃圾）
+dimwishlist:item=959037361&perks=3032599245,1523832109,1546637391
