@@ -89,11 +89,23 @@ dimwishlist:item=3753063346&perks=2579169598,1194056669
 dimwishlist:item=499245245&perks=3978468247,2396489472
 dimwishlist:item=499245245&perks=4071163871,2173046394
 
+//notes:恶德姊妹
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=968510818,3078487919
+
+//notes:执政官的雷霆
+dimwishlist:item=2896109856&perks=1955165503,124408337
+
+//notes:布瑞科技狼人(PVP)
+dimwishlist:item=3558681245&perks=2387244414,1015611457
+dimwishlist:item=3558681245&perks=1359896290,1015611457
 
 
 
 
-//notes:
+
+
+
 //notes:
 //notes:
 //notes:
