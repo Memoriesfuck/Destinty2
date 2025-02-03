@@ -85,10 +85,14 @@ dimwishlist:item=3753063346&perks=1840239774,791862061,3300816228,1546637391
 //notes:连奏-11（PVP）
 dimwishlist:item=3753063346&perks=2579169598,1194056669
 
+//notes:死亡秘法IV
+dimwishlist:item=499245245&perks=3978468247,2396489472
+dimwishlist:item=499245245&perks=4071163871,2173046394
 
 
 
-//notes:
+
+
 //notes:
 //notes:
 //notes:
