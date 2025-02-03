@@ -74,8 +74,12 @@ dimwishlist:item=2130875369&perks=3017780555,4293542123
 //notes:旅居者的故事（PVP）
 dimwishlist:item=2130875369&perks=706527188,47981717
 
+//notes:格网队长（PVE）
+dimwishlist:item=3433930495&perks=839105230,3230963543,3523296417,2048641572
+//notes:格网队长（PVP）
+dimwishlist:item=3433930495&perks=2387244414,460017080
 
-//notes:
+
 //notes:
 //notes:
 //notes:
