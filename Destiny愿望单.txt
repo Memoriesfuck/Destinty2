@@ -1,4 +1,4 @@
-//notes:实弹射击
+ //notes:实弹射击
 dimwishlist:item=3612142623&perks=1955165503,124408337
 
 //notes:无名之秋（PVE）
@@ -30,3 +30,6 @@ dimwishlist:item=2800870005&perks=3700496672,4293542123
 //notes:维烈妲-F(PVP)
 dimwishlist:item=4200122994&perks=2579169598,1194056669
 dimwishlist:item=4200122994&perks=957782887,1194056669
+
+//notes:拾荒者的命运
+dimwishlist:item=2913577176&perks=1300023272,3142289711,2579169598,1194056669
