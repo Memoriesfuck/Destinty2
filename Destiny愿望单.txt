@@ -103,6 +103,9 @@ dimwishlist:item=3558681245&perks=1359896290,1015611457
 //notes:无名午夜
 dimwishlist:item=996109059&perks=3400784728,3891536761
 
+//notes:马赫斯HC4
+dimwishlist:item=1246793994&perks=776531651,4104185692
+
 
 
 
