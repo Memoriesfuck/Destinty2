@@ -149,8 +149,15 @@ dimwishlist:item=1106635211&perks=3978468247,4293542123
 //notes:联合行动(PVP)
 dimwishlist:item=1331824604&perks=2387244414,1954620775
 
+//notes:提丰GL5(PVE)
+dimwishlist:item=3568377122&perks=3523296417,3194351027
+dimwishlist:item=3568377122&perks=3523296417,2978966579
+//notes:提丰GL5(PVP)
+dimwishlist:item=3568377122&perks=951095735,4104185692
 
-
+//notes:测地HSM
+dimwishlist:item=3637669759&perks=776531651,2048641572
+dimwishlist:item=3637669759&perks=1749209109,3913600130
 
 
 
