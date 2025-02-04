@@ -130,9 +130,11 @@ dimwishlist:item=1851521408&perks=247725512,124408337
 //notes:塞努纳SI6
 dimwishlist:item=5159537&perks=2779035018,124408337
 
+//notes:珀耳塞斯-D
+dimwishlist:item=1019000888&perks=3700496672,3038247973
 
-
-
+//notes:金环蛇
+dimwishlist:item=2852052802&perks=1820235745,124408337
 
 
 
