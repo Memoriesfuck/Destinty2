@@ -167,6 +167,40 @@ dimwishlist:item=867154247&perks=968510818,2888557110
 dimwishlist:item=867154247&perks=968510818,3194351027
 dimwishlist:item=867154247&perks=968510818,3751912585
 
+//notes:洛德布罗克-C
+dimwishlist:item=2328531378&perks=1354429876,365154968
+
+//notes:卢努拉塔-4B
+dimwishlist:item=2513965917&perks=2846385770,124408337
+dimwishlist:item=2513965917&perks=2866798147,124408337
+
+//notes:灵能炼金V
+dimwishlist:item=358788212&perks=1168162263,1015611457
+dimwishlist:item=358788212&perks=1168162263,124408337
+
+//notes:断奏-46
+dimwishlist:item=4019668921&perks=3700496672,3038247973
+
+//notes:斯诺里FR5(PVP)
+dimwishlist:item=4114929480&perks=280464955,2213355989
+
+//notes:葬歌-22
+dimwishlist:item=355382946&perks=2779035018,4293542123
+
+//notes:装饰音-59
+dimwishlist:item=2566006935&perks=4071163871,776531651
+
+//notes:赋格曲-55
+dimwishlist:item=2233545123&perks=1354429876,1771339417
+dimwishlist:item=2233545123&perks=3300816228,1546637391
+
+//notes:太攀蛇-4FR
+dimwishlist:item=1911060537&perks=3400784728,1771339417
+
+
+
+
+
 
 
 
