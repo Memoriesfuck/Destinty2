@@ -113,15 +113,16 @@ dimwishlist:item=3615421669&perks=124408337,2978966579
 //notes:冰冷拒绝（PVP）
 dimwishlist:item=1216130969&perks=2387244414,460017080
 
+//notes:伊鲁康吉
+dimwishlist:item=2673925403&perks=1354429876,1771339417
 
+//notes:厄倪俄
+dimwishlist:item=1601177201&perks=2451262963,3425386926
 
-
-
-
-
-
-
-
+//notes:滑奏-47（PVE）
+dimwishlist:item=222606050&perks=1523832109,831391274
+//notes:滑奏-47（PVP）
+dimwishlist:item=222606050&perks=3619207468,2551157718
 
 
 
