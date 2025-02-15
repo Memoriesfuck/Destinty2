@@ -251,9 +251,10 @@ dimwishlist:item=3959549446&perks=3418782618,124408337
 
 //notes:金刚磐石（奶枪）
 dimwishlist:item=3229982889&perks=692399809,2298656195
+dimwishlist:item=2987244302&perks=692399809,2298656195
 //notes:金刚磐石（工具）
 dimwishlist:item=3229982889&perks=923806249,960997401
-
+dimwishlist:item=2987244302&perks=923806249,831391274
 //notes:送魂者 （PVE，电配装）
 dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3218042543
 //notes:送魂者 （PVE，技能刷新）
