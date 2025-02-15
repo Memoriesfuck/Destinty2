@@ -293,10 +293,15 @@ dimwishlist:item=690341468&perks=201365942,2319119708
 dimwishlist:item=558794124&perks=2387244414,460017080
 dimwishlist:item=558794124&perks=2387244414,3047969693
 
+//notes:空洞之语（PVE）
+dimwishlist:item=342027677&perks=2010801679,3218042543
+//notes:空洞之语（PVP）
+dimwishlist:item=342027677&perks=1821614984,1546637391
+dimwishlist:item=342027677&perks=1821614984,2652708987
 
-
-
-
+//notes:揭纱露眼（垃圾）
+dimwishlist:item=727781522&perks=3643424744,1427256713
+dimwishlist:item=727781522&perks=2010801679,1427256713
 
 
 
