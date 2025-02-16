@@ -323,6 +323,11 @@ dimwishlist:item=1999754402&perks=3643424744,3891536761
 //notes:阿德墨托斯-D(PVE)
 dimwishlist:item=3776430252&perks=776531651,1134488199
 
+//notes:非常演奏(PVE)
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+//notes:非常演奏(PVP)
+dimwishlist:item=1097616550&perks=3436462433,1890422124
+
 
 
 
