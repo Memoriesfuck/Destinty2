@@ -331,7 +331,8 @@ dimwishlist:item=1097616550&perks=3436462433,1890422124
 //notes:破坏之光
 dimwishlist:item=2328923181&perks=3523296417,831391274
 
-
+//notes:强音-45
+dimwishlist:item=4233375372&perks=3523296417,831391274
 
 
 
