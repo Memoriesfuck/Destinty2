@@ -320,6 +320,8 @@ dimwishlist:item=3211624072&perks=1359896290,591790007
 //notes:赶秀人
 dimwishlist:item=1999754402&perks=3643424744,3891536761
 
+//notes:阿德墨托斯-D(PVE)
+dimwishlist:item=3776430252&perks=776531651,1134488199
 
 
 
