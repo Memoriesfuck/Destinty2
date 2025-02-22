@@ -287,7 +287,7 @@ dimwishlist:item=32287609&perks=1195158366,3673922083
 dimwishlist:item=32287609&perks=1195158366,2450788523
 dimwishlist:item=32287609&perks=1195158366,1890422124
 
-//notes:虚假承诺（PVP）
+//notes:低语石台（PVP）
 dimwishlist:item=690341468&perks=2579169598,2319119708
 dimwishlist:item=690341468&perks=201365942,2319119708
 
