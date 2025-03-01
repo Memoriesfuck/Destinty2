@@ -338,13 +338,11 @@ dimwishlist:item=4233375372&perks=3523296417,831391274
 //notes:烈焰之锤（专家）
 dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,555281244,2988596335
 
-
-
-
-
-
-
-
+//notes:烈焰之锤（专家PVE）
+dimwishlist:item=4077588826&perks=3038247973,3218042543
+//notes:烈焰之锤（专家PVP）
+dimwishlist:item=4077588826&perks=3038247973,47981717
+dimwishlist:item=4077588826&perks=3511092054,3081867624
 
 
 
