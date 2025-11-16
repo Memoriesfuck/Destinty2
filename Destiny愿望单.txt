@@ -16,18 +16,18 @@ vog隐藏箱切角色三连		!queue VoG gatekeeper n Alpha_mask#8142
 梦魇隐藏箱切角色三连		!queue ron Chest1 n Alpha_mask#8142
 梦魇隐藏箱切角色三连		!queue ron Chest2 n Alpha_mask#8142
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-//notes:坚忍克己
+坚忍克己
 dimwishlist:item=266021826&perks=1476923953,1476923956
 dimwishlist:item=266021826&perks=1476923952,1476923956
 dimwishlist:item=266021826&perks=3573490511,1476923955
 dimwishlist:item=266021826&perks=3573490505,3573490500
-//notes:相对主义
+相对主义
 dimwishlist:item=2809120022&perks=1476923953,3751917990
 dimwishlist:item=2809120022&perks=1476923953,3751917994
 dimwishlist:item=2809120022&perks=3751917998,1476923955
 dimwishlist:item=2809120022&perks=3751917996,1476923956
 dimwishlist:item=2809120022&perks=1476923953,3751917992
-//notes:唯我主义
+唯我主义
 dimwishlist:item=2273643087&perks=183430252,1476923955
 dimwishlist:item=2273643087&perks=183430253,1476923957
 dimwishlist:item=2273643087&perks=183430252,183430247
@@ -36,7 +36,7 @@ dimwishlist:item=2273643087&perks=1476923953,1476923956
 
 
 
-//notes:金刚磐石
+金刚磐石
 dimwishlist:item=3229982889&perks=692399809,2298656195
 dimwishlist:item=3229982889&perks=923806249,960997401
 dimwishlist:item=3485029080&perks=692399809,2298656195
@@ -44,7 +44,7 @@ dimwishlist:item=3485029080&perks=923806249,960997401
 dimwishlist:item=2987244302&perks=692399809,2298656195
 dimwishlist:item=2987244302&perks=923806249,960997401
 
-//notes:镜之意象
+镜之意象
 dimwishlist:item=3234363830&perks=3643424744,31345821
 dimwishlist:item=3234363830&perks=1820235745,831391274
 dimwishlist:item=3234363830&perks=3643424744,365154968
@@ -55,7 +55,7 @@ dimwishlist:item=3877448149&perks=3643424744,31345821
 dimwishlist:item=3877448149&perks=1820235745,831391274
 dimwishlist:item=3877448149&perks=3643424744,365154968
 
-//notes:分裂
+分裂
 dimwishlist:item=2992463569&perks=684456054,2173046394
 dimwishlist:item=2992463569&perks=1866048759,31345821
 dimwishlist:item=2992463569&perks=1866048759,2416023159
@@ -69,7 +69,7 @@ dimwishlist:item=2501377328&perks=684456054,2173046394
 dimwishlist:item=2501377328&perks=1866048759,31345821
 dimwishlist:item=2501377328&perks=1866048759,2416023159
 
-//notes:记忆犹新
+记忆犹新
 dimwishlist:item=2291392465&perks=2848615171,2048641572
 dimwishlist:item=2291392465&perks=776531651,2048641572
 dimwishlist:item=1536325168&perks=2848615171,2048641572
@@ -77,7 +77,7 @@ dimwishlist:item=1536325168&perks=776531651,2048641572
 dimwishlist:item=3417731926&perks=2848615171,2048641572
 dimwishlist:item=3417731926&perks=776531651,2048641572
 
-//notes:送魂者（高速发射+高速弹药）
+送魂者（高速发射+高速弹药）
 dimwishlist:item=4028298892&perks=2010801679,3218042543
 dimwishlist:item=4028298892&perks=2010801679,3523296417
 dimwishlist:item=2553380021&perks=2010801679,3218042543
@@ -87,7 +87,7 @@ dimwishlist:item=704410186&perks=2010801679,3523296417
 dimwishlist:item=3840794631&perks=2010801679,3523296417
 dimwishlist:item=3840794631&perks=2010801679,3523296417
 
-//notes:后见之明
+后见之明
 dimwishlist:item=3228630258&perks=2010801679,1427256713
 dimwishlist:item=3228630258&perks=3978468247,1427256713
 dimwishlist:item=1834313033&perks=2010801679,1427256713
@@ -95,7 +95,7 @@ dimwishlist:item=1834313033&perks=3978468247,1427256713
 dimwishlist:item=3953163559&perks=2010801679,1427256713
 dimwishlist:item=3953163559&perks=3978468247,1427256713
 
-//notes:拒绝召唤
+拒绝召唤
 dimwishlist:item=3269398063&perks=1966281507,3773585912
 dimwishlist:item=3269398063&perks=1966281507,1782407750
 dimwishlist:item=2671849376&perks=1966281507,3773585912
@@ -103,7 +103,7 @@ dimwishlist:item=2671849376&perks=1966281507,1782407750
 dimwishlist:item=25228802&perks=1966281507,3773585912
 dimwishlist:item=25228802&perks=1966281507,1782407750
 
-//notes:深渊之刃
+深渊之刃
 dimwishlist:item=547165496&perks=1749209109,1089671869
 dimwishlist:item=547165496&perks=1749209109,3708227201
 dimwishlist:item=547165496&perks=2244851822,3201496230
@@ -120,7 +120,7 @@ dimwishlist:item=4221591387&perks=2244851822,3201496230
 dimwishlist:item=4221591387&perks=2244851822,3708227201
 dimwishlist:item=4221591387&perks=2244851822,831391274
 
-//notes:揭纱露眼
+揭纱露眼
 dimwishlist:item=727781522&perks=3643424744,1427256713
 dimwishlist:item=727781522&perks=2010801679,1427256713
 dimwishlist:item=282549639&perks=3643424744,1427256713
@@ -128,7 +128,7 @@ dimwishlist:item=282549639&perks=2010801679,1427256713
 dimwishlist:item=615373993&perks=3643424744,1427256713
 dimwishlist:item=615373993&perks=2010801679,1427256713
 
-//notes:守望之眼 
+守望之眼 
 dimwishlist:item=1757177186&perks=3643424744,3218042543
 dimwishlist:item=1757177186&perks=3643424744,557221067
 dimwishlist:item=1757177186&perks=3643424744,3966416502
@@ -150,320 +150,320 @@ dimwishlist:item=2856225832&perks=3643424744,3966416502
 dimwishlist:item=2856225832&perks=684456054,3966416502
 dimwishlist:item=2856225832&perks=2869569095,3218042543
 
- //notes:实弹射击
+ 实弹射击
 dimwishlist:item=3612142623&perks=1955165503,124408337
 
-//notes:无名之秋（PVE）
+无名之秋（PVE）
 dimwishlist:item=1051949956&perks=684456054,2173046394
-//notes:无名之秋（PVP）
+无名之秋（PVP）
 dimwishlist:item=1051949956&perks=2387244414,4082225868
 
-//notes:帕拉贝伦
+帕拉贝伦
 dimwishlist:item=3926811686&perks=3418782618,3993379141
 
-//notes:逆权侵占IX(垃圾)
+逆权侵占IX(垃圾)
 dimwishlist:item=1890332078&perks=3511092054,3619207468
 
-//notes:起源故事(PVE)
+起源故事(PVE)
 dimwishlist:item=2826850739&perks=1359896290,365154968
-//notes:起源故事(PVP)
+起源故事(PVP)
 dimwishlist:item=2826850739&perks=2387244414,95528736
 
-//notes:强音-45
+强音-45
 dimwishlist:item=4233375372&perks=3523296417,831391274
 
-//notes:暗流涌动（专家）
+暗流涌动（专家）
 dimwishlist:item=817909300&perks=3523296417,2173046394
 
-//notes:狂野风格（专家）（垃圾）
+狂野风格（专家）（垃圾）
 dimwishlist:item=959037361&perks=3032599245,1523832109,1546637391
 
-//notes:多米诺（垃圾）
+多米诺（垃圾）
 dimwishlist:item=2800870005&perks=3700496672,4293542123
 
-//notes:维烈妲-F(PVP)
+维烈妲-F(PVP)
 dimwishlist:item=4200122994&perks=2579169598,1194056669
 dimwishlist:item=4200122994&perks=957782887,1194056669
 
-//notes:拾荒者的命运（枪管套筒+精确弹药）
+拾荒者的命运（枪管套筒+精确弹药）
 dimwishlist:item=2913577176&perks=2579169598,1194056669
 
-//notes:礼拜（智能/高速+迷失手雷）
+礼拜（智能/高速+迷失手雷）
 dimwishlist:item=2599338624&perks=1955165503,2978966579
 dimwishlist:item=2599338624&perks=1955165503,2396489472
 dimwishlist:item=2599338624&perks=2039302152,2978966579
 dimwishlist:item=2599338624&perks=2039302152,2396489472
 
-//notes:蜕皮（PVE）
+蜕皮（PVE）
 dimwishlist:item=2823644677&perks=1955165503,124408337
-//notes:蜕皮（PVP）
+蜕皮（PVP）
 dimwishlist:item=2823644677&perks=3619207468,555281244
 
-//notes:繁文缛节(垃圾)
+繁文缛节(垃圾)
 dimwishlist:item=3423493037&perks=1955165503,124408337
 
-//notes:有利位置（PVE）
+有利位置（PVE）
 dimwishlist:item=3830941962&perks=1583705720,3966416502
-//notes:有利位置（PVP）
+有利位置（PVP）
 dimwishlist:item=3830941962&perks=1194056669,2213355989
 
-//notes:苦乐参半（智能/高速+扩容/微型）
+苦乐参半（智能/高速+扩容/微型）
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,557221067
 dimwishlist:item=2599338625&perks=3987942396,3751912585
 
-//notes:毒香根草（PVE）
+毒香根草（PVE）
 dimwishlist:item=825495813&perks=1119449540,3966416502
-//notes:毒香根草（PVP）
+毒香根草（PVP）
 dimwishlist:item=825495813&perks=3938834702,365154968
 
-//notes:异教徒的炽热
+异教徒的炽热
 dimwishlist:item=4224667951&perks=3161816588,3194351027
 dimwishlist:item=4224667951&perks=3300816228,3194351027
 
-//notes:炫彩突袭（PVE）
+炫彩突袭（PVE）
 dimwishlist:item=2598420927&perks=1820235745,3891536761
-//notes:炫彩突袭（PVP）
+炫彩突袭（PVP）
 dimwishlist:item=2598420927&perks=1359896290,3891536761
 
-//notes:旅居者的故事（PVE）
+旅居者的故事（PVE）
 dimwishlist:item=2130875369&perks=3300816228,555281244
 dimwishlist:item=2130875369&perks=3017780555,4293542123
-//notes:旅居者的故事（PVP）
+旅居者的故事（PVP）
 dimwishlist:item=2130875369&perks=706527188,47981717
 
-//notes:格网队长（PVE）
+格网队长（PVE）
 dimwishlist:item=3433930495&perks=839105230,3230963543,3523296417,2048641572
-//notes:格网队长（PVP）
+格网队长（PVP）
 dimwishlist:item=3433930495&perks=2387244414,460017080
 
-//notes:连奏-11（PVE）
+连奏-11（PVE）
 dimwishlist:item=3753063346&perks=1840239774,791862061,3300816228,3751912585
 dimwishlist:item=3753063346&perks=1840239774,791862061,3300816228,1546637391
-//notes:连奏-11（PVP）
+连奏-11（PVP）
 dimwishlist:item=3753063346&perks=2579169598,1194056669
 
-//notes:死亡秘法IV
+死亡秘法IV
 dimwishlist:item=499245245&perks=3978468247,2396489472
 dimwishlist:item=499245245&perks=4071163871,2173046394
 dimwishlist:item=499245245&perks=684456054,2173046394
 
-//notes:恶德姊妹
+恶德姊妹
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 dimwishlist:item=2039776723&perks=968510818,3078487919
 
-//notes:执政官的雷霆
+执政官的雷霆
 dimwishlist:item=2896109856&perks=1955165503,124408337
 
-//notes:布瑞科技狼人(PVE)
+布瑞科技狼人(PVE)
 dimwishlist:item=3558681245&perks=1820235745,95528736
-//notes:布瑞科技狼人(PVP)
+布瑞科技狼人(PVP)
 dimwishlist:item=3558681245&perks=2387244414,1015611457
 dimwishlist:item=3558681245&perks=1359896290,1015611457
 
-//notes:无名午夜
+无名午夜
 dimwishlist:item=996109059&perks=3400784728,3891536761
 
-//notes:马赫斯HC4
+马赫斯HC4
 dimwishlist:item=1246793994&perks=776531651,4104185692
 
-//notes:毒蜥4FR
+毒蜥4FR
 dimwishlist:item=3615421669&perks=968510818,555281244
 dimwishlist:item=3615421669&perks=124408337,2978966579
 
-//notes:伊鲁康吉
+伊鲁康吉
 dimwishlist:item=2673925403&perks=1354429876,1771339417
 
-//notes:厄倪俄-D
+厄倪俄-D
 dimwishlist:item=1601177201&perks=2451262963,3425386926
 dimwishlist:item=1601177201&perks=2779035018,3708227201
 
-//notes:滑奏-47（PVE）
+滑奏-47（PVE）
 dimwishlist:item=222606050&perks=1523832109,831391274
-//notes:滑奏-47（PVP）
+滑奏-47（PVP）
 dimwishlist:item=222606050&perks=3619207468,2551157718
 
-//notes:垭拉拉卡-3SR（箭头制退器 弹跳型弹药）
+垭拉拉卡-3SR（箭头制退器 弹跳型弹药）
 dimwishlist:item=1851521408&perks=247725512,124408337
 dimwishlist:item=1851521408&perks=247725512,1015611457
 
-//notes:塞努纳SI6
+塞努纳SI6
 dimwishlist:item=5159537&perks=2779035018,124408337
 
-//notes:珀耳塞斯-D（小口径枪膛 战术弹匣）
+珀耳塞斯-D（小口径枪膛 战术弹匣）
 dimwishlist:item=1019000888&perks=247725512,3038247973
 dimwishlist:item=1019000888&perks=3700496672,3038247973
 
-//notes:金环蛇
+金环蛇
 dimwishlist:item=2852052802&perks=1482024992,1885400500,1820235745,124408337
 
-//notes:大合唱-57(PVP)
+大合唱-57(PVP)
 dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,47981717
 dimwishlist:item=372697604&perks=1482024992,3142289711,247725512,588594999
 dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,2846385770
 
-//notes:奥格玛PR6
+奥格玛PR6
 dimwishlist:item=2342054803&perks=1048183818,1683379515
 
-//notes:最后劫掠
+最后劫掠
 dimwishlist:item=1106635211&perks=968510818,4293542123
 dimwishlist:item=1106635211&perks=3978468247,4293542123
 
-//notes:联合行动(PVP)
+联合行动(PVP)
 dimwishlist:item=1331824604&perks=2387244414,1954620775
 
-//notes:提丰GL5(PVE)
+提丰GL5(PVE)
 dimwishlist:item=3568377122&perks=3523296417,3194351027
 dimwishlist:item=3568377122&perks=3523296417,2978966579
-//notes:提丰GL5(PVP)
+提丰GL5(PVP)
 dimwishlist:item=3568377122&perks=951095735,4104185692
 
-//notes:测地HSM
+测地HSM
 dimwishlist:item=3637669759&perks=776531651,2048641572
 dimwishlist:item=3637669759&perks=1749209109,3913600130
 
-//notes:纳斯尔丁
+纳斯尔丁
 dimwishlist:item=1456017061&perks=1749209109,3913600130
 
-//notes:马斯利翁-C
+马斯利翁-C
 dimwishlist:item=867154247&perks=968510818,2888557110
 dimwishlist:item=867154247&perks=968510818,3194351027
 dimwishlist:item=867154247&perks=968510818,3751912585
 
-//notes:洛德布罗克-C
+洛德布罗克-C
 dimwishlist:item=2328531378&perks=1354429876,365154968
 dimwishlist:item=2328531378&perks=1482024992,1885400500,1359896290,1890422124
 dimwishlist:item=2328531378&perks=1482024992,1885400500,1359896290,3751912585
 
-//notes:卢努拉塔-4B
+卢努拉塔-4B
 dimwishlist:item=2513965917&perks=2846385770,124408337
 dimwishlist:item=2513965917&perks=2866798147,124408337
 
-//notes:灵能炼金V
+灵能炼金V
 dimwishlist:item=358788212&perks=1168162263,1015611457
 dimwishlist:item=358788212&perks=1168162263,124408337
 
-//notes:断奏-46
+断奏-46
 dimwishlist:item=4019668921&perks=3700496672,3038247973
 
-//notes:斯诺里FR5(PVP)
+斯诺里FR5(PVP)
 dimwishlist:item=4114929480&perks=280464955,2213355989
 
-//notes:葬歌-22
+葬歌-22
 dimwishlist:item=355382946&perks=2779035018,4293542123
 
-//notes:装饰音-59
+装饰音-59
 dimwishlist:item=2566006935&perks=1482024992,1885400500,2450788523,2416023159
 dimwishlist:item=2566006935&perks=1482024992,1885400500,4071163871,776531651
 
-//notes:赋格曲-55（PVE）
+赋格曲-55（PVE）
 dimwishlist:item=2233545123&perks=1840239774,106909392,1354429876,1771339417
-//notes:赋格曲-55（PVP）
+赋格曲-55（PVP）
 dimwishlist:item=2233545123&perks=3250034553,3142289711,2866798147,957782887
 
-//notes:太攀蛇-4FR
+太攀蛇-4FR
 dimwishlist:item=1911060537&perks=839105230,1687452232,573122728,395388285
 dimwishlist:item=1911060537&perks=839105230,1687452232,573122728,3007133316
 
-//notes:严苛言语
+严苛言语
 dimwishlist:item=1606497639&perks=3592538738,776531651
 
-//notes:老旧纯银
+老旧纯银
 dimwishlist:item=3678653083&perks=3418782618,4104185692
 dimwishlist:item=3678653083&perks=3418782618,831391274
 
-//notes:拨奏曲-22
+拨奏曲-22
 dimwishlist:item=4100775158&perks=1428297954,1774574192
 
-//notes:携手(PVP)
+携手(PVP)
 dimwishlist:item=664109750&perks=2451262963,3511092054
 dimwishlist:item=664109750&perks=3161816588,3511092054
 
-//notes:赤背-5SI
+赤背-5SI
 dimwishlist:item=1687353095&perks=1820235745,3425386926
 
-//notes:无尽风暴 3号位精确弹药
+无尽风暴 3号位精确弹药
 dimwishlist:item=2510526114&perks=1359896290,365154968
 dimwishlist:item=2510526114&perks=1359896290,1890422124
 dimwishlist:item=2510526114&perks=1359896290,2451262963
 
-//notes:故人往事
+故人往事
 dimwishlist:item=2199554524&perks=2387244414,2319119708
 
-//notes:奥凡迪尔FR6
+奥凡迪尔FR6
 dimwishlist:item=963710795&perks=689005463,1523832109,2978966579
 
-//notes:历战伤痕
+历战伤痕
 dimwishlist:item=2099894368&perks=3700496672,3891536761
 
-//notes:漏斗网
+漏斗网
 dimwishlist:item=3341893443&perks=1820235745,4104185692
 
-//notes:日心QSC
+日心QSC
 dimwishlist:item=3998080529&perks=3017780555,4293542123
 
-//notes:活性祈福IV
+活性祈福IV
 dimwishlist:item=3583275737&perks=1820235745,95528736
 
-//notes:雅罗维特MG4
+雅罗维特MG4
 dimwishlist:item=3959549446&perks=3418782618,124408337
 
-//notes:真言者
+真言者
 dimwishlist:item=1946491241&perks=3032599245,3300816228,706527188
-//notes:真言者（拿掉自填的真言者完全不如老版本）
+真言者（拿掉自填的真言者完全不如老版本）
 dimwishlist:item=447296102&perks=3032599245,1583705720,1683379515
 
-//notes:形象工程MK. 55（传说版本的越橘，但perk组合略微不尽人意，逊色于目前依旧作为主手720的头牌不朽，只能将就着用）
+形象工程MK. 55（传说版本的越橘，但perk组合略微不尽人意，逊色于目前依旧作为主手720的头牌不朽，只能将就着用）
 dimwishlist:item=32287609&perks=1195158366,2450788523
 dimwishlist:item=32287609&perks=1866048759,2416023159
 
-//notes:低语石台（PVP）
+低语石台（PVP）
 dimwishlist:item=690341468&perks=2579169598,2319119708
 dimwishlist:item=690341468&perks=201365942,2319119708
 
-//notes:冰冷拒绝（PVP）
+冰冷拒绝（PVP）
 dimwishlist:item=558794124&perks=2387244414,460017080
 dimwishlist:item=558794124&perks=2387244414,3047969693
 dimwishlist:item=558794124&perks=2387244414,2458213969
 
-//notes:空洞之语（PVE）
+空洞之语（PVE）
 dimwishlist:item=342027677&perks=2010801679,3218042543
-//notes:空洞之语（PVP）
+空洞之语（PVP）
 dimwishlist:item=342027677&perks=1821614984,1546637391
 dimwishlist:item=342027677&perks=1821614984,2652708987
 
-//notes:狂怒化身V
+狂怒化身V
 dimwishlist:item=751880654&perks=3400784728,1089671869
 dimwishlist:item=751880654&perks=3400784728,2848615171
 dimwishlist:item=751880654&perks=3400784728,4049631843
 
-//notes:加时交锋
+加时交锋
 dimwishlist:item=2349907931&perks=1820235745,4104185692
 dimwishlist:item=2349907931&perks=1820235745,124408337
 dimwishlist:item=2349907931&perks=2779035018,3708227201
 
-//notes:多机系统CCX
+多机系统CCX
 dimwishlist:item=3211624072&perks=243981275,3891536761
 dimwishlist:item=3211624072&perks=1359896290,591790007
 
-//notes:赶秀人
+赶秀人
 dimwishlist:item=1999754402&perks=3643424744,3891536761
 
-//notes:阿德墨托斯-D(PVE)
+阿德墨托斯-D(PVE)
 dimwishlist:item=3776430252&perks=776531651,1134488199
 
-//notes:非常演奏(PVE)
+非常演奏(PVE)
 dimwishlist:item=1097616550&perks=3643424744,4104185692
-//notes:非常演奏(PVP)
+非常演奏(PVP)
 dimwishlist:item=1097616550&perks=3436462433,1890422124
 
-//notes:强音-45
+强音-45
 dimwishlist:item=4233375372&perks=3523296417,831391274
 
-//notes:烈焰之锤 专家
+烈焰之锤 专家
 dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,555281244,2988596335
 
-//notes:回文
+回文
 dimwishlist:item=2876244791&perks=3511092054,3081867624
 dimwishlist:item=2876244791&perks=3038247973,3081867624
 dimwishlist:item=2876244791&perks=3038247973,3218042543
@@ -475,41 +475,41 @@ dimwishlist:item=4077588826&perks=3038247973,3218042543
 dimwishlist:item=4077588826&perks=3038247973,47981717
 dimwishlist:item=4077588826&perks=3038247973,2109543898
 
-//notes:诱惑之钩
+诱惑之钩
 dimwishlist:item=1587953057&perks=243981275,1685431615
 dimwishlist:item=1587953057&perks=243981275,2396489472
 
-//notes:克鲁瑞斯FR4
+克鲁瑞斯FR4
 dimwishlist:item=891996636&perks=2284787283,1089671869
 
-//notes:无誓
+无誓
 dimwishlist:item=1303313141&perks=3700496672,4198902903
 
-//notes:雷电
+雷电
 dimwishlist:item=2029899814&perks=3643424744,557221067
 dimwishlist:item=2029899814&perks=3643424744,4198902903
 dimwishlist:item=2029899814&perks=3643424744,3218042543
 
-//notes:力拔头筹
+力拔头筹
 dimwishlist:item=55393445&perks=776531651,2048641572
 
-//notes:喧嚣
+喧嚣
 dimwishlist:item=2666273249&perks=2869569095,2396489472
 dimwishlist:item=2666273249&perks=2869569095,3218042543
 
-//notes:幽灵骏马
+幽灵骏马
 dimwishlist:item=3007479950&perks=3619207468,3038247973
 dimwishlist:item=3007479950&perks=1354429876,3038247973
 
-//notes:无爱(槽化+加大/附加)
+无爱(槽化+加大/附加)
 dimwishlist:item=2485881870&perks=247725512,1089671869
 dimwishlist:item=2485881870&perks=2848615171,1089671869
 
-//notes:幽灵骏马（PVE）
+幽灵骏马（PVE）
 dimwishlist:item=2595813005&perks=3828510309,831391274
 dimwishlist:item=2595813005&perks=3828510309,960997401
 
-//notes:食莲者
+食莲者
 dimwishlist:item=3922217119&perks=776531651,2048641572
 dimwishlist:item=3922217119&perks=1523832109,2048641572
 dimwishlist:item=3922217119&perks=880644845,2048641572
@@ -519,150 +519,150 @@ dimwishlist:item=2697143634&perks=1523832109,2048641572
 dimwishlist:item=2697143634&perks=880644845,2048641572
 dimwishlist:item=2697143634&perks=3700496672,1134488199
 
-//notes:无声（槽化+突击 PVE）
+无声（槽化+突击 PVE）
 dimwishlist:item=3360937899&perks=3987942396,3078487919
 dimwishlist:item=3360937899&perks=3987942396,1089671869
-//notes:无声（槽化+突击 PVP）
+无声（槽化+突击 PVP）
 dimwishlist:item=3360937899&perks=2579169598,1194056669
 
-//notes:注视焦点
+注视焦点
 dimwishlist:item=694275488&perks=3987942396,1089671869
 dimwishlist:item=694275488&perks=3987942396,3194351027
 dimwishlist:item=694275488&perks=2284787283,1089671869
 dimwishlist:item=694275488&perks=2284787283,3194351027
 
-//notes:失落保卫
+失落保卫
 dimwishlist:item=2249996761&perks=880644845,3891536761
 dimwishlist:item=2249996761&perks=247725512,3038247973
 dimwishlist:item=2249996761&perks=3400784728,3891536761
 
-//notes:破坏之光
+破坏之光
 dimwishlist:item=2328923181&perks=923806249,831391274
 dimwishlist:item=2328923181&perks=3523296417,831391274
 dimwishlist:item=2328923181&perks=691659142,2109543898
 dimwishlist:item=2328923181&perks=3523296417,831391274
 
-//notes:殉道者的复仇
+殉道者的复仇
 dimwishlist:item=2584830733&perks=3300816228,4293542123
 dimwishlist:item=2584830733&perks=3017780555,4293542123
 dimwishlist:item=2584830733&perks=3523296417,4293542123
 dimwishlist:item=2584830733&perks=968510818,4293542123
 
-//notes:沙之界线
+沙之界线
 dimwishlist:item=2450049485&perks=3993379141,3078487919
 dimwishlist:item=2450049485&perks=3993379141,1771339417
 
-//notes:完美悖论
+完美悖论
 dimwishlist:item=1298672084&perks=4071163871,2679249093
 dimwishlist:item=1298672084&perks=691659142,2679249093
 dimwishlist:item=1298672084&perks=2869569095,2360754333
 
-//notes:VS速度指挥
+VS速度指挥
 dimwishlist:item=1762785663&perks=3523296417,243981275
 dimwishlist:item=1762785663&perks=776531651,2048641572
 
-//notes:VS寒冷抑制
+VS寒冷抑制
 dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3987942396,3194351027
 dimwishlist:item=1762785662&perks=3751912585,3078487919
 dimwishlist:item=1762785662&perks=3523296417,3078487919
 
-//notes:帝国之针
+帝国之针
 dimwishlist:item=3460122497&perks=201365942,4104185692
 
-//notes:狼掌
+狼掌
 dimwishlist:item=1505862304&perks=460017080,2387244414
 dimwishlist:item=1505862304&perks=460017080,1015611457
 
-//notes:提娜莎精通
+提娜莎精通
 dimwishlist:item=480368036&perks=1421772400,2978966579
 dimwishlist:item=480368036&perks=1119449540,2978966579
 dimwishlist:item=480368036&perks=951095735,2978966579
 
-//notes:绞刑判官SR4
+绞刑判官SR4
 dimwishlist:item=1453235079&perks=3700496672,3038247973
 
-//notes:虚假承诺（垃圾）
+虚假承诺（垃圾）
 dimwishlist:item=1390080550&perks=1359896290,2387244414
 
-//notes:冰冷拒绝（PVP）
+冰冷拒绝（PVP）
 dimwishlist:item=1216130969&perks=2387244414,460017080
 
-//notes:莱德瑞克斯穿甲剑（PVP）
+莱德瑞克斯穿甲剑（PVP）
 dimwishlist:item=3218364298&perks=2579169598,1015611457
 dimwishlist:item=3218364298&perks=2579169598,460017080
 dimwishlist:item=3218364298&perks=2387244414,31345821
 
-//notes:乔科斯的长剑（PVE）
+乔科斯的长剑（PVE）
 dimwishlist:item=157601190&perks=3700496672,1134488199
-//notes:乔科斯的长剑（PVP）
+乔科斯的长剑（PVP）
 dimwishlist:item=157601190&perks=2579169598,3047969693
 
-//notes:闪耀 专家
+闪耀 专家
 dimwishlist:item=1492522228&perks=3418782618,3078487919
 
-//notes:僵局
+僵局
 dimwishlist:item=2035738085&perks=4071163871,47981717
 
-//notes:克瑞米尔之匕
+克瑞米尔之匕
 dimwishlist:item=198854575&perks=2039302152,3673922083
 dimwishlist:item=198854575&perks=2039302152,555281244
 dimwishlist:item=198854575&perks=2039302152,2387244414
 dimwishlist:item=198854575&perks=2039302152,47981717
 
-//notes:蒙恩
+蒙恩
 dimwishlist:item=3381450498&perks=1556840489,2173046394
 dimwishlist:item=3381450498&perks=2859149211,2173046394
 
-//notes:急锋
+急锋
 dimwishlist:item=2889501828&perks=3650930298,744217850
-//notes:急锋 专家
+急锋 专家
 dimwishlist:item=1354727549&perks=2077819806,3650930298
 
-//notes:玫瑰
+玫瑰
 dimwishlist:item=882778888&perks=3161816588,699525795
 
-//notes:阈限守夜(PVE)
+阈限守夜(PVE)
 dimwishlist:item=2575844666&perks=124408337,1955165503
-//notes:阈限守夜(PVP)
+阈限守夜(PVP)
 dimwishlist:item=2575844666&perks=2579169598,1015611457
 dimwishlist:item=2575844666&perks=1890422124,1015611457
 
-//notes:长臂(PVE)
+长臂(PVE)
 dimwishlist:item=4249949938&perks=247725512,3218042543
 dimwishlist:item=4249949938&perks=247725512,3038247973
-//notes:长臂(PVP)
+长臂(PVP)
 dimwishlist:item=4249949938&perks=2579169598,3619207468
-//notes:长臂(PVE)
+长臂(PVE)
 dimwishlist:item=14929251&perks=247725512,3218042543
 dimwishlist:item=14929251&perks=247725512,3038247973
-//notes:长臂(PVP)
+长臂(PVP)
 dimwishlist:item=14929251&perks=2579169598,3619207468
 
-//notes:狂野飞禽(PVE)
+狂野飞禽(PVE)
 dimwishlist:item=1206729100&perks=3987942396,3078487919
 dimwishlist:item=1206729100&perks=3300816228,1546637391
 dimwishlist:item=1206729100&perks=3161816588,1546637391
 dimwishlist:item=1206729100&perks=3523296417,2048641572
-//notes:狂野飞禽(PVE)
+狂野飞禽(PVE)
 dimwishlist:item=2982006965&perks=3987942396,3078487919
 dimwishlist:item=2982006965&perks=3300816228,1546637391
 dimwishlist:item=2982006965&perks=3161816588,1546637391
 dimwishlist:item=2982006965&perks=3523296417,2048641572
 
-//notes:碎晶石
+碎晶石
 dimwishlist:item=3184681056&perks=3142289711,706527188,47981717
 
-//notes:残酷怜悯(PVE)
+残酷怜悯(PVE)
 dimwishlist:item=2347178967&perks=2848615171,3218042543
-//notes:残酷怜悯(PVP)
+残酷怜悯(PVP)
 dimwishlist:item=2347178967&perks=3619207468,3047969693
 dimwishlist:item=2347178967&perks=2579169598,3047969693
 
-//notes:审判
+审判
 dimwishlist:item=2226572694&perks=124408337,1955165503
 
-//notes:无情(PVP)
+无情(PVP)
 dimwishlist:item=3733988413&perks=839105230,1885400500			1 2号位
 dimwishlist:item=3733988413&perks=1840239774,1561002382			1 2号位
 dimwishlist:item=3733988413&perks=3619207468,460017080
@@ -674,151 +674,151 @@ dimwishlist:item=3681280908&perks=3619207468,460017080
 dimwishlist:item=3681280908&perks=2579169598,460017080
 dimwishlist:item=3681280908&perks=247725512,460017080
 
-//notes:检察官(PVE)
+检察官(PVE)
 dimwishlist:item=880829467&perks=2848615171,2173046394
 dimwishlist:item=4025177550&perks=2848615171,2173046394
-//notes:检察官(PVP)
+检察官(PVP)
 dimwishlist:item=880829467&perks=3619207468,95528736
 dimwishlist:item=880829467&perks=2387244414,95528736
 dimwishlist:item=4025177550&perks=3619207468,95528736
 dimwishlist:item=4025177550&perks=2387244414,95528736
 
-//notes:猝死(PVE)
+猝死(PVE)
 dimwishlist:item=1976481399&perks=2679249093,2360754333
 dimwishlist:item=1976481399&perks=3978468247,3201496230
 dimwishlist:item=1976481399&perks=968510818,3201496230
-//notes:猝死(PVP)
+猝死(PVP)
 dimwishlist:item=1976481399&perks=4071163871,1194056669
 
-//notes:审判(PVE)
+审判(PVE)
 dimwishlist:item=1773934241&perks=124408337,1955165503
 dimwishlist:item=1773934241&perks=3523296417,1954620775
-//notes:审判(PVP)
+审判(PVP)
 dimwishlist:item=1773934241&perks=2579169598,47981717
 dimwishlist:item=1773934241&perks=3619207468,555281244
 dimwishlist:item=1773934241&perks=3161816588,555281244
 
-//notes:野猪獠牙
+野猪獠牙
 dimwishlist:item=1218113510&perks=968510818,2396489472
 dimwishlist:item=1218113510&perks=923806249,2396489472
 
-//notes:和平契约
+和平契约
 dimwishlist:item=3437370193&perks=2579169598,460017080
 
-//notes:夜神长存V
+夜神长存V
 dimwishlist:item=2767393525&perks=968510818,2594592626
 
-//notes:倾斜角度 专家
+倾斜角度 专家
 dimwishlist:item=3997086838&perks=1966281507,2978966579
 
-//notes:迷之吸引
+迷之吸引
 dimwishlist:item=1723380073&perks=47981717,2846385770
 
-//notes:典狱长的规则 专家
+典狱长的规则 专家
 dimwishlist:item=3250744600&perks=1354429876,1546637391
 
-//notes:命运终结者 失时
+命运终结者 失时
 dimwishlist:item=4219826183&perks=3619207468,699525795
 dimwishlist:item=4219826183&perks=3038247973,555281244
 dimwishlist:item=4219826183&perks=47981717,2720533289
 
-//notes:备用口粮
+备用口粮
 dimwishlist:item=3236112986&perks=3161816588,47981717
 
-//notes:真实预言
+真实预言
 dimwishlist:item=2742838700&perks=47981717,3038247973
 
-//notes:魔鬼中的天使
+魔鬼中的天使
 dimwishlist:item=4152016199&perks=588594999,2387244414
 
-//notes:新目标
+新目标
 dimwishlist:item=1780464822&perks=1428297954,3047969693
 
-//notes:滑溜运气
+滑溜运气
 dimwishlist:item=1757202961&perks=1966281507,4293542123
 dimwishlist:item=2934305134&perks=1523832109,4293542123
 dimwishlist:item=2934305134&perks=1966281507,4293542123
 
-//notes:噤声
+噤声
 dimwishlist:item=3962575203&perks=1866048759,3414324643
 
-//notes:城主IV 专家(PVE)
+城主IV 专家(PVE)
 dimwishlist:item=2063217087&perks=201365942,4293542123
-//notes:城主IV 专家(PVP)
+城主IV 专家(PVP)
 dimwishlist:item=2063217087&perks=201365942,3414324643
 dimwishlist:item=2063217087&perks=201365942,2652708987
 
-//notes:牡鹿之角(PVP)
+牡鹿之角(PVP)
 dimwishlist:item=3465233192&perks=201365942,4082225868
 
-//notes:月之狂嚎
+月之狂嚎
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 
-//notes:野兽天性
+野兽天性
 dimwishlist:item=1835747805&perks=957782887,2846385770
 
-//notes:主权
+主权
 dimwishlist:item=3818198556&perks=3038247973,1134488199
 dimwishlist:item=3818198556&perks=3523296417,1134488199
 
-//notes:天钿RR4 专家（PVE）
+天钿RR4 专家（PVE）
 dimwishlist:item=3610521673&perks=1354429876,154663739
-//notes:天钿RR4 专家（PVP）
+天钿RR4 专家（PVP）
 dimwishlist:item=3610521673&perks=957782887,4293542123
 
-//notes:月面岩屑III
+月面岩屑III
 dimwishlist:item=1948035256&perks=3017780555,4293542123
 
-//notes:VS重力滞止
+VS重力滞止
 dimwishlist:item=93061497&perks=1645158859,1194056669
 
-//notes:插头一号
+插头一号
 dimwishlist:item=3293524502&perks=1645158859,1194056669
 
-//notes:奥术之拥
+奥术之拥
 dimwishlist:item=3649985571&perks=1354429876,555281244
 
-//notes:怀旧未来主义者
+怀旧未来主义者
 dimwishlist:item=1612781792&perks=706527188,957782887
 
-//notes:早来晚走
+早来晚走
 dimwishlist:item=3616586446&perks=3300816228,1546637391
 
-//notes:双刃答案
+双刃答案
 dimwishlist:item=105164264&perks=776531651,2048641572
 
-//notes:永恒边缘
+永恒边缘
 dimwishlist:item=2782325301&perks=2030760728,2244851822
 
-//notes:荣誉利刃
+荣誉利刃
 dimwishlist:item=2857348871&perks=1749209109,3708227201
 
-//notes:裂冠者
+裂冠者
 dimwishlist:item=2782325302&perks=1749209109,1546637391
 
-//notes:惩戒措施 失时（PVE）
+惩戒措施 失时（PVE）
 dimwishlist:item=2334480463&perks=1820235745,557221067
 dimwishlist:item=2334480463&perks=3523296417,557221067
 dimwishlist:item=2334480463&perks=3824105627,1464081238
 dimwishlist:item=2334480463&perks=2048641572,1464081238
-//notes:惩戒措施 失时（PVP）
+惩戒措施 失时（PVP）
 dimwishlist:item=2334480463&perks=1359896290,557221067
 
-//notes:终点视界
+终点视界
 dimwishlist:item=3984556130&perks=1523832109,3966416502
 
-//notes:雪崩
+雪崩
 dimwishlist:item=1845978721&perks=1820235745,4293542123
 
-//notes:时运无常
+时运无常
 dimwishlist:item=4146702548&perks=3300816228,3425386926
 
-//notes:边缘交通
+边缘交通
 dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=3751912585,3078487919
 dimwishlist:item=568611923&perks=3300816228,3078487919
 
-//notes:光芒复仇 失时
+光芒复仇 失时
 dimwishlist:item=3623686757&perks=3987942396,3078487919
 dimwishlist:item=3623686757&perks=3987942396,1089671869
 dimwishlist:item=3623686757&perks=3987942396,1439600632
@@ -827,7 +827,7 @@ dimwishlist:item=3623686757&perks=3643424744,1439600632
 dimwishlist:item=3623686757&perks=3643424744,1089671869
 dimwishlist:item=3623686757&perks=3523296417,3078487919
 
-//notes:无效安慰
+无效安慰
 dimwishlist:item=839786290&perks=968510818,3078487919
 dimwishlist:item=839786290&perks=968510818,3194351027
 dimwishlist:item=291447487&perks=3987942396,3078487919
@@ -836,88 +836,88 @@ dimwishlist:item=291447487&perks=1523832109,3194351027
 dimwishlist:item=291447487&perks=1523832109,3078487919
 
 
-//notes:核心终结IV
+核心终结IV
 dimwishlist:item=1719687748&perks=1523832109,1439600632
 dimwishlist:item=1719687748&perks=1523832109,3194351027
 dimwishlist:item=1719687748&perks=2284787283,1439600632
 dimwishlist:item=1719687748&perks=2284787283,3194351027
 
-//notes:螺纹针
+螺纹针
 dimwishlist:item=3075224551&perks=2284787283,1546637391
 dimwishlist:item=3075224551&perks=3300816228,1546637391
 dimwishlist:item=3075224551&perks=247725512,1546637391
 
-//notes:光明前景
+光明前景
 dimwishlist:item=491078457&perks=2387244414,1015611457
 
-//notes:暗影代价
+暗影代价
 dimwishlist:item=1056103557&perks=1583705720,2173046394
 
-//notes:新太平洋碑文
+新太平洋碑文
 dimwishlist:item=2059741649&perks=3523296417,2396489472
 dimwishlist:item=2059741649&perks=1556840489,2396489472
 dimwishlist:item=492673102&perks=3523296417,2396489472
 dimwishlist:item=492673102&perks=1556840489,2396489472
 
-//notes:极速快感
+极速快感
 dimwishlist:item=2026755633&perks=1820235745,95528736
 dimwishlist:item=2026755633&perks=3619207468,95528736
 dimwishlist:item=2026755633&perks=3700496672,3891536761
 
-//notes:无视(pve)
+无视(pve)
 dimwishlist:item=2226158470&perks=3824105627,2173046394
 dimwishlist:item=2226158470&perks=3824105627,3218042543
-//notes:无视(pvp)
+无视(pvp)
 dimwishlist:item=2226158470&perks=3619207468,555281244
 
-//notes:终点视界
+终点视界
 dimwishlist:item=2730671571&perks=1523832109,3966416502
 dimwishlist:item=2730671571&perks=3523296417,3966416502
 
-//notes:无人幸存(pve)
+无人幸存(pve)
 dimwishlist:item=4228149269&perks=3017780555,365154968
 dimwishlist:item=4228149269&perks=3017780555,3081867624
 dimwishlist:item=4193602194&perks=3017780555,365154968
 dimwishlist:item=4193602194&perks=3017780555,3081867624
-//notes:无人幸存(pvp)
+无人幸存(pvp)
 dimwishlist:item=4228149269&perks=3017780555,4293542123
 dimwishlist:item=4193602194&perks=3017780555,4293542123
 
-//notes:插头一号专家(PVE)
+插头一号专家(PVE)
 dimwishlist:item=3106557243&perks=1523832109,2594592626
-//notes:插头一号专家(PVP)
+插头一号专家(PVP)
 dimwishlist:item=3106557243&perks=1645158859,1194056669
 
-//notes:逆锋月刃(PVE)
+逆锋月刃(PVE)
 dimwishlist:item=267672635&perks=1966281507,3966416502
 dimwishlist:item=267672635&perks=2859149211,3966416502
-//notes:逆锋月刃(PVP)
+逆锋月刃(PVP)
 dimwishlist:item=267672635&perks=951095735,4082225868
 
-//notes:隼月(锻造膛线)
+隼月(锻造膛线)
 dimwishlist:item=3856705927&perks=47981717,3326204863
 dimwishlist:item=3856705927&perks=2450788523,3326204863
 dimwishlist:item=3856705927&perks=699525795,3326204863
 
-//notes:赐予者的祝福
+赐予者的祝福
 dimwishlist:item=970034755&perks=3700496672,3891536761
 
-//notes:升华
+升华
 dimwishlist:item=1674692344&perks=3700496672,3038247973
 dimwishlist:item=1674692344&perks=3700496672,2173046394
 dimwishlist:item=1674692344&perks=3700496672,3218042543
 
-//notes:最后星期四
+最后星期四
 dimwishlist:item=3813721211&perks=3523296417,2848615171
 dimwishlist:item=3813721211&perks=3523296417,831391274
 
-//notes:圣爱
+圣爱
 dimwishlist:item=4124362340&perks=3418782618,555281244
 
-//notes:崩崖
+崩崖
 dimwishlist:item=367772693&perks=2679249093,1546637391
 
-//notes:隐秘观测
+隐秘观测
 dimwishlist:item=1079872540&perks=124408337,2848615171
 dimwishlist:item=1079872540&perks=3523296417,557221067
 dimwishlist:item=1079872540&perks=1820235745,557221067
@@ -978,6 +978,7 @@ dimwishlist:item=4146673634&perks=3987942396,3078487919
 
 dimwishlist:item=2155534128&perks=3300816228,1439600632
 dimwishlist:item=2155534128&perks=1275731761,3764420437
+
 
 
 
